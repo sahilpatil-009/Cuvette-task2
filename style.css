@@ -165,10 +165,8 @@
 
 .info-box{
     background-color: #483EFF;
-    width: 1542px;
-    height: 717px;
-    top: 1267px;
-    left: 101px;
+    width: 80%;
+    height: 700px;
     border-radius: 21px;
     display: flex;
     align-items:center;
@@ -236,7 +234,7 @@
 }
 
 .result ul li span{
-    font-weight: 800;
+    font-weight: 600;
 }
 
 .result button{
